@@ -1,3 +1,5 @@
+This is a fork from https://github.com/clakech/elasticsearch with ES 1.7.2 and using openjdk8 docker image instead of (RIP) java-oracle8 docker image
+
 ## Elasticsearch Dockerfile
 
 
